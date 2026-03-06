@@ -9,10 +9,10 @@ for file in os.listdir("."):
         break
 
 if video_file is None:
-    print("❌ No video file found in this folder. Please add a video.")
+    print("No video file found in this folder. Please add a video.")
     exit()
 
-print(f"✅ Using video: {video_file}")
+print(f" Using video: {video_file}")
 cap = cv2.VideoCapture(video_file)
 
 # Background subtractor
