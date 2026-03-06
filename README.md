@@ -21,5 +21,5 @@ Below is an example frame from the output video:
 
 ![Fish Tracking Output](output_frame.png)
 
----
+
 
