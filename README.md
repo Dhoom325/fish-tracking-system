@@ -23,4 +23,3 @@ Below is an example frame from the output video:
 
 ---
 
-Feel free to use or modify this project for your own fish tracking experiments!
